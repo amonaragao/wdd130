@@ -1,0 +1,48 @@
+#background {
+    height: 725px;
+}
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+body {
+    background-color:#d5d8d9;
+}
+header {
+    background-color: #6a959d;
+}
+nav a :hover {
+    background-color: #af2f38;
+    text-align: center;
+    text-decoration: none;
+}
+.book, .join {
+    background-color: #2a7279;
+}
+.book:hover, .join:hover {
+    background-color: #2a7279;
+}
+#background {
+    background-color: #2a7279;
+}
+.msg {
+    background-color: #2a7279;
+}
+footer {
+    background-color: #d5d8d9;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+}
+#hero-img {
+    width: 100%;
+}
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
